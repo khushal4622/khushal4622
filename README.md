@@ -1,5 +1,5 @@
 <!-- Main Container -->
-<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928DAB); color: #ffffff; padding: 30px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+<div align="center">
 
 # 🚀 **KHUSHAL MAHAJAN**  
 ### **Full Stack Developer | MERN Stack | Web Developer**  
@@ -25,7 +25,7 @@
 ---
 
 ## 🎨 **Tech Stack**
-<div align="center" style="background: #181818; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -37,24 +37,24 @@
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white">
-</div>
+</p>
 
 ---
 
 ## 📊 **GitHub Stats**
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushal4622&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal4622&theme=radical&hide_border=false" height="180px" width="48%">
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal4622&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px" width="50%">
-</div>
+</p>
 
 ---
 
 ## 🌎 **Connect With Me**
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/khushal-mahajan-1025322b4">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -64,7 +64,7 @@
   <a href="mailto:khushalmahajan04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
