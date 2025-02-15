@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - E-Commerce Website<br>👯 I’m looking to collaborate on -  Web development projects, open-source contributions, and exciting opportunities as a Frontend or Full Stack Developer with MERN.🚀<br>🤝 I’m looking for help with - **Landing my first job** as a Web Developer, Frontend Developer or Full Stack Developer with MERN.<br>🌱 I’m currently learning - React, Node.js, Express.js & MongoDB<br>💬 Ask me about - Web Development, Frontend & Full Stack Development with MERN.<br>📫 How to reach me - khushalmahajan04@gmail.com<br>⚡ Fun fact - I just console.log() my problems! 😆💻 || I think I am funny 😄  
+🔭 I’m currently working on - E-Commerce Website<br>👯 I’m looking to collaborate on -  Web development projects, open-source contributions, and exciting opportunities as a Frontend or Full Stack Developer with MERN.🚀<br>🤝 I’m looking for help with - **Landing my first job** as a Web Developer, Frontend Developer or Full Stack Developer with MERN.<br>🌱 I’m currently learning - React, Node.js, Express.js & MongoDB<br>💬 Ask me about - Web Development, Frontend & Full Stack Development with MERN.<br>📫 How to reach me - khushalmahajan04@gmail.com<br>⚡ Fun fact - I don’t have bugs, just unexpected features! 😆💻 || I think I am funny 😄  
 
 
 ## 🌐 Socials:
