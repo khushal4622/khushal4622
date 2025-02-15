@@ -15,8 +15,8 @@
 🔭 **Currently Working On:** Building an **E-Commerce Website** with MERN 🚀<br>  
 👯 **Looking to Collaborate On:** Open-source projects, Web Development, and Startups 💡<br>  
 🤝 **Looking for Help With:** Landing my first **Frontend or Full Stack Developer Job** 🎯<br>  
-🌱 **Currently Learning:** Advanced **React, Next.js, TypeScript & Cloud Deployment** ☁<br>  
-💬 **Ask Me About:** MERN Stack, Web Development, UI/UX, and JavaScript ⚡<br>  
+🌱 **Currently Learning:** Advanced **React, Node.js, Express.js and MongoDB** ☁<br>  
+💬 **Ask Me About:** MERN Stack, Web Development and JavaScript ⚡<br>  
 📫 **Contact Me:** khushalmahajan04@gmail.com 📩<br>  
 ⚡ **Fun Fact:** I debug my life problems using **console.log()** 🤣  
 
