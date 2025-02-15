@@ -1,5 +1,5 @@
 <!-- Main Container -->
-<div align="center" style="background-color: #000000; color: #ffffff; padding: 30px; border-radius: 15px;">
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928DAB); color: #ffffff; padding: 30px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
 
 # 🚀 **KHUSHAL MAHAJAN**  
 ### **Full Stack Developer | MERN Stack | Web Developer**  
@@ -25,7 +25,7 @@
 ---
 
 ## 🎨 **Tech Stack**
-<div align="center">
+<div align="center" style="background: #181818; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -43,12 +43,12 @@
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushal4622&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal4622&theme=dark&hide_border=false" height="180px" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushal4622&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal4622&theme=radical&hide_border=false" height="180px" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal4622&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal4622&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px" width="50%">
 </div>
 
 ---
