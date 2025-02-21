@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🚀 **KHUSHAL MAHAJAN**  
-### **Full Stack Developer | MERN Stack | Web Developer**  
+### **Full Stack Developer | MERN Stack | Web Developer | Frontend Developer**  
 
 🌍 From **Jalgaon, India** | Passionate about **Building Scalable & Efficient Web Applications**  
 🎯 Seeking **Exciting Frontend & Full Stack Development Opportunities**  
